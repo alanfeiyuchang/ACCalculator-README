@@ -16,9 +16,9 @@ A full-screen portrait calculator for iOS with number history, date & zodiac hin
 
 ## Demo
 
-[Watch demo](demo.mov)
+[Watch demo](demo.mp4)
 
-<video src="demo.mov" controls width="640"></video>
+<video src="demo.mp4" controls width="640"></video>
 
 ---
 
